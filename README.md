@@ -1,118 +1,156 @@
-# ☕ Java Learning
+# Java Learning Journey
 
-Welcome to my Java learning repository.
+This repository contains the Java programs that I'm writing while learning Java from the basics to advanced concepts.
 
-This repository documents my journey of learning Java from the basics to backend development. Each folder contains programs and concepts covered on a particular day.
+My objective is to build a strong foundation in Java for Backend Development and prepare for Software Engineer interviews at product-based companies such as Google and Microsoft.
 
 ---
 
-## 📚 Learning Roadmap
+## Progress
 
-### ✅ Day01 - Java Basics
-**Topics Covered**
+- Java Basics
+- Scanner & User Input
+- Data Types
+- Operators
+- Decision Making
+- Loops
+- Arrays (Upcoming)
+- Strings (Upcoming)
+- Methods (Upcoming)
+- Object-Oriented Programming (Upcoming)
+
+---
+
+## Day 01 - Java Basics
+
+### Topics Covered
 - Introduction to Java
-- Hello World Program
+- JDK, JRE and JVM
+- First Java Program
 - Variables
-- Arithmetic Operations
-- Git & GitHub Basics
+- Data Types (Introduction)
+- Print Statements
 
-**Programs**
+### Programs
 - HelloWorld.java
-- Addition.java
-- Subtraction.java
-- Variables.java
+- VariablesDemo.java
+- StudentInfo.java
 
 ---
 
-### ✅ Day02 - User Input
-**Topics Covered**
+## Day 02 - Scanner & User Input
+
+### Topics Covered
 - Scanner Class
-- User Input
-- String Input
-- Integer Input
-- Output Formatting
+- Reading User Input
+- Scanner Methods
+- Taking Input from the User
 
-**Programs**
-- UserInput.java
-- NameInput.java
+### Programs
 - StudentDetails.java
+- EmployeeDetails.java
+- UserInputDemo.java
 
 ---
 
-### ✅ Day03 - Data Types & Operators
-**Topics Covered**
+## Day 03 - Data Types & Operators
+
+### Topics Covered
 - Primitive Data Types
-- Primitive vs Non-Primitive Data Types
+- Type Casting
 - Arithmetic Operators
 - Assignment Operators
 - Increment & Decrement Operators
 - Relational Operators
 - Logical Operators
 
-**Programs**
-- EmployeeDetails.java
-- OperatorDemo.java
+### Programs
+- ArithmeticDemo.java
 - IncrementDecrementDemo.java
+- AssignmentOperatorDemo.java
 - ComparisonDemo.java
+- LogicalOperatorDemo.java
 
 ---
 
-## 📂 Repository Structure
+## Day 04 - Decision Making
 
-```
-java-learning
-│
-├── Day01
-│   ├── HelloWorld.java
-│   ├── Addition.java
-│   ├── Subtraction.java
-│   └── Variables.java
-│
-├── Day02
-│   ├── UserInput.java
-│   ├── NameInput.java
-│   └── StudentDetails.java
-│
-├── Day03
-│   ├── EmployeeDetails.java
-│   ├── OperatorDemo.java
-│   ├── IncrementDecrementDemo.java
-│   └── ComparisonDemo.java
-│
-├── .gitignore
-└── README.md
-```
+### Topics Covered
+- if Statement
+- if-else Statement
+- else-if Ladder
+- Nested if
+- Ternary Operator
+
+### Programs
+- VotingEligibility.java
+- GradeCalculator.java
+- InterviewEligibility.java
+- EvenOddChecker.java
 
 ---
 
-## 🎯 Goal
+## Day 05 - Loops
 
-My goal is to become a Backend Java Developer capable of building scalable and production-ready applications by mastering:
+### Topics Covered
+- for Loop
+- Nested for Loop
+- Sum of N Numbers
+- Multiplication Table
+- Factorial
+- Reverse Numbers
+- Even and Odd Number Programs
+- Introduction to Pattern Printing
 
-- Java
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- SQL
+### Programs
+- PrintNumbers.java
+- SumOfNNumbers.java
+- MultiplicationTable.java
+- FactorialCalculator.java
+- ReverseNumbers.java
+- EvenNumbers.java
+- OddNumbers.java
+- SquarePattern.java
+- TrianglePattern.java
+- ReverseTrianglePattern.java
+- RightAlignedTriangle.java
+
+---
+
+## Upcoming Topics
+
+- while Loop
+- do-while Loop
+- break and continue
+- Arrays
+- Strings
+- Methods
+- Object-Oriented Programming
+- Exception Handling
+- Collections Framework
+- File Handling
+- Multithreading
+- JDBC
+- Java 8 Features
 - Spring Boot
-- REST APIs
 - Microservices
+- Data Structures & Algorithms
 - System Design
 
-Target Companies:
-- Google
-- Microsoft
-- Amazon
-- Atlassian
-- Adobe
 ---
 
-## 🚀 Progress
+## Purpose of this Repository
 
-- ✅ Day01 Completed
-- ✅ Day02 Completed
-- ✅ Day03 Completed
-- ⏳ Day04 In Progress
+I'm maintaining this repository to:
+
+- Practice Java consistently.
+- Track my learning progress.
+- Improve problem-solving skills.
+- Build a strong foundation for backend development.
+- Prepare for coding interviews.
 
 ---
 
-**Learning one day at a time.**
+## About Me
+
+I'm currently learning Java with a focus on backend development. This repository will continue to grow as I learn new concepts and solve more programming problems.

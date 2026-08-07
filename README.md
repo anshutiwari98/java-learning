@@ -8,7 +8,7 @@ My objective is to build a strong foundation in Java for Backend Development and
 
 ## Progress
 
-Completed
+### Completed
 
 - Java Basics
 - Scanner & User Input
@@ -18,14 +18,16 @@ Completed
 - Loops
 - Arrays
 - Array Problem Solving
+- Methods
+- Method Overloading
 
-Currently Learning
+### Currently Learning
+
+- Recursion
+
+### Upcoming
 
 - Strings
-
-Upcoming
-
-- Methods
 - Object-Oriented Programming
 - Exception Handling
 - Collections Framework
@@ -207,45 +209,129 @@ Upcoming
 
 ---
 
+## Day 09 - Methods
+
+### Topics Covered
+
+- Creating Methods
+- Method Declaration
+- Method Calling
+- Method Parameters
+- Method Arguments
+- Return Type
+- void Methods
+- Non-void Methods
+- Method Reusability
+- Calling One Method from Another
+
+### Programs
+
+- HelloMethod.java
+- GreetingByName.java
+- GreetMultipleTimes.java
+- PrintAddition.java
+- AdditionReturn.java
+- PrintSquare.java
+- SquareReturn.java
+- PrintCube.java
+- FindLargestOfThree.java
+- FindMinimumReturn.java
+- MaximumReturn.java
+- IsEven.java
+- IsPositive.java
+- IsDivisibleBy5.java
+- IsEligibleToVote.java
+- StudentDetails.java
+- AbsoluteValue.java
+- CalculatorReturn.java
+- MethodCallingMethod.java
+- IsPalindromeNumber.java
+- FinalPracticeMethods.java
+
+---
+
+## Day 10 - Method Overloading
+
+### Topics Covered
+
+- Introduction to Method Overloading
+- Method Signature
+- Exact Match
+- Automatic Type Promotion
+- Widening Conversion
+- Method Resolution
+- Compiler Decision Process
+- Overloading with Different Number of Parameters
+- Overloading with Different Parameter Types
+- Practical Use Cases of Method Overloading
+
+### Programs
+
+- PrintMessage.java
+- AdditionOverloading.java
+- CalculatorOverloading.java
+- AreaCalculator.java
+- FindMaximumOverloading.java
+- TemperatureConverter.java
+- DisplayInformation.java
+- EmployeeSalary.java
+- MethodResolutionDemo.java
+- FinalPracticeOverloading.java
+
+---
+
 ## Upcoming Topics
 
+### Recursion
+
+Learn recursive method calls, base cases, stack memory, recursive problem solving, and classic recursion interview problems such as factorial, Fibonacci, power calculation, and sum of numbers.
+
 ### Strings
+
 Learn how to work with String methods, StringBuilder, StringBuffer, and solve common String interview problems.
 
-### Methods
-Understand method creation, parameters, return types, method overloading, recursion, and code reusability.
-
 ### Object-Oriented Programming
+
 Learn Classes, Objects, Constructors, Inheritance, Polymorphism, Encapsulation, and Abstraction.
 
 ### Exception Handling
+
 Understand how Java handles runtime exceptions using try-catch, finally, throw, and throws.
 
 ### Collections Framework
+
 Work with List, Set, Map, Queue, Iterators, and Generics.
 
 ### File Handling
+
 Read and write files using Java File, BufferedReader, BufferedWriter, and NIO.
 
 ### Multithreading
+
 Learn Threads, Runnable, Synchronization, Executors, and Concurrent Programming.
 
 ### JDBC
+
 Connect Java applications with relational databases and perform CRUD operations.
 
 ### Java 8 Features
+
 Explore Lambda Expressions, Streams API, Functional Interfaces, Method References, and Optional.
 
 ### Spring Boot
+
 Build REST APIs, connect with databases, implement security, and develop backend applications.
 
 ### Microservices
+
 Understand service-based architecture, API communication, configuration management, and deployment basics.
 
 ### Data Structures & Algorithms
+
 Practice interview-focused problems on Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more.
 
 ### System Design
+
 Learn backend architecture concepts such as scalability, caching, databases, messaging systems, and microservices.
 
 ---
